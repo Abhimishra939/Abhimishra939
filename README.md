@@ -19,6 +19,9 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a [GitHub Star ⭐](https://stars.github.com/) and Head of Developer Experience at [Temporal.io](https://temporal.io/). I do a lot of [speaking on React and Svelte](https://www.swyx.io/speaking/), teach [React and TypeScript at Egghead.io](https://egghead.io/instructors/shawn-wang?af=95qfq1) and publish a [daily podcast](http://swyx.transistor.fm/) and [weekly newsletter](https://www.swyx.io/subscribe/) (subscribe!) curating the best of what I read and listen to. 
 
 I recently self-published <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a> to condense all the tacit knowledge developers need to succeed in our industry. <a href="https://codingcareer.circle.so/">Join our community</a>!
+# My GitHub contributions as a Game of Life
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
 <a href="https://myoctocat.dev/@sw-yx/octocat">
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
